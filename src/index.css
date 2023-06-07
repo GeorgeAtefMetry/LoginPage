@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+
+html {
+  font-family: sans-serif;
+  background-image: linear-gradient(to bottom, #2d0043, #e0b1b1);
+}
+
+body {
+  margin: 0;
+  margin-top: 200px;
+}
